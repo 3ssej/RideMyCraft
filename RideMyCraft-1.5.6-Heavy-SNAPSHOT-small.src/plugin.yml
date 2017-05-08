@@ -1,0 +1,7 @@
+name: Ridemycraft
+main: com.quequiere.ridemycraft.Ridemycraft
+version: ${version}
+commands:
+   Ridemycraft:
+     description: none.
+     aliases: [rmc]
